@@ -2,6 +2,8 @@
 
 A dynamic Todo List application that allows users to organize tasks into projects. Built with vanilla JavaScript using ES6 modules and Webpack.
 
+<video src="todolist.mov" controls width="400"></video>
+
 ## Features
 
 - Create and manage multiple projects
