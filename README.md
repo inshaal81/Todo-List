@@ -32,7 +32,7 @@ A dynamic Todo List application that allows users to organize tasks into project
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/theChosen-1/Todo-List.git
+   git clone https://github.com/inshaal81/Todo-List.git
    ```
 
 2. Navigate to the project directory
